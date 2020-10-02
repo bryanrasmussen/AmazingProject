@@ -1,4 +1,4 @@
-# AmazingProject
+# AmazingProject - An amazing project
 An Amazing Project to send amazing pull requests to
 
 Maybe I'm amazed at the way you PR me all the time
@@ -20,3 +20,5 @@ That really doesn't compute
 Maybe I'm a bot and maybe you're the only spammer
 
 Who could ever help me
+
+Made with love.
